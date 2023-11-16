@@ -17,6 +17,12 @@ body:
       label: Speaker(s) Information
       description: Include names of the speaker(s). Provide credentials and short descriptions for each speaker to establish expertise and relevance.
       placeholder: Add speaker(s) information here.
+ - type: textarea
+    id: CFP-topic-experience
+    attributes:
+      label: Topic Experience
+      description: Provide past experience that demonstrates your expertise in the given topic. This could be links to past workshops that you did on this topic, or code contribution to a specific project, etc.
+      placeholder: Add links and information about topic experience here.
   - type: textarea
     id: CFP-session-time-and-duration
     attributes:
