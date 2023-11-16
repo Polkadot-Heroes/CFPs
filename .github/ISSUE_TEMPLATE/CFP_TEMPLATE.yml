@@ -1,4 +1,4 @@
-name: "CFP template"
+name: CFP template
 description: Use this form to submit a CFP for a workshop, talk, or other session that you would like to host
 title: "[CFP] : "
 labels: ["CFP"]
@@ -27,21 +27,21 @@ body:
       description: Propose a time and duration for the session at least two weeks in advance. Check the [events calendar]((https://www.notion.so/polkadotheroes/Workshops-Events-003b8a739a1b496f9bcb1f36ddd2aa3f) for slot availability. If proposing a series, provide multiple times, dates and durations.
       placeholder: Add session time(s) and duration(s) here.
 
- - type: textarea
+  - type: textarea
     id: CFP-session-format
     attributes:
       label: Format of the Session
       description: Clearly define the format (e.g., workshop, panel discussion, hackathon). For ideas refer back to the [Scope and formats section of the Readme](https://github.com/Polkadot-Heroes/CFPs#scope-and-formats). If proposing a series of multiple sessions, make sure to define the format of each session.  
       placeholder: Add format(s) here.
 
- - type: textarea
+  - type: textarea
     id: CFP-session-description
     attributes:
       label: Detailed Description
       description: Provide an engaging and informative description of your session, which we can use in communication to members (e.g. during community calls and emails). Include an agenda and detailed breakdown for each session, especially if proposing multiple sessions.
       placeholder: Add description(s).
 
- - type: textarea
+  - type: textarea
     id: CFP-session-prerequisits
     attributes:
       label: Prerequisites
