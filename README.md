@@ -58,21 +58,22 @@ Use the provided template LINK to initiate your proposal submission, which inclu
 **👉 [USE TEMPLATE](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) 👈**
 
 ### Speaker(s) Information
-Include names of the speaker(s).
-Provide credentials and short descriptions for each speaker to establish expertise and relevance.
+- Include names of the speaker(s).
+- Provide credentials and short descriptions for each speaker to establish expertise and relevance.
 
 ### Time and Duration of the Session
-Propose a time and duration for the session at least two weeks in advance. Check the events calendar for slot availability.
-If proposing a series, provide multiple times, dates and durations.
+- Propose a time and duration for the session at least two weeks in advance. Check the events calendar for slot availability.
+- If proposing a series, provide multiple times, dates and durations.
 
 ### Format of the Session
-Clearly define the format (e.g., workshop, panel discussion, hackathon).
+- Clearly define the format (e.g., workshop, panel discussion, hackathon).
 
 ### Detailed Description
-Provide an engaging and informative description of your session, which we can use in communication to members (e.g. during community calls and emails)
-Include an agenda and detailed breakdown for each session, especially if proposing multiple sessions.
-Prerequisites
-Explain how participants should prepare for the session as well as detail any materials, resources, or tools participants will need including any technical requirements or infrastructure.
+- Provide an engaging and informative description of your session, which we can use in communication to members (e.g. during community calls and emails)
+- Include an agenda and detailed breakdown for each session, especially if proposing multiple sessions.
+
+## Prerequisites
+- Explain how participants should prepare for the session as well as detail any materials, resources, or tools participants will need including any technical requirements or infrastructure.
 
 
 
@@ -84,28 +85,28 @@ Evaluation criteria that will be used during the evaluation process can be found
 
 
 ### Relevance and alignment with the Polkadot ecosystem
-Proposals should be closely related to the Polkadot ecosystem. This includes ensuring the content is pertinent to the interests and needs of the Polkadot developer community, including aspects like blockchain technology, dApp development, and Polkadot-specific tools or concepts. 
+- Proposals should be closely related to the Polkadot ecosystem. This includes ensuring the content is pertinent to the interests and needs of the Polkadot developer community, including aspects like blockchain technology, dApp development, and Polkadot-specific tools or concepts. 
 
 
 ### Speaker experience and qualifications
-The background, credentials, and experience of the speaker(s) should be evaluated. This involves assessing speaker expertise in the proposed topic, experience in similar workshops or talks, and overall reputation in the relevant field.
+- The background, credentials, and experience of the speaker(s) should be evaluated. This involves assessing speaker expertise in the proposed topic, experience in similar workshops or talks, and overall reputation in the relevant field.
 
 
 ### Workshop content and learning objectives
-Assessing the comprehensiveness of the topics to be covered, ensuring that the content addresses the needs and interests of the target audience.
-The alignment of the content with the stated learning objectives and its potential to provide valuable, practical knowledge to participants will be closely observed.
+- Assessing the comprehensiveness of the topics to be covered, ensuring that the content addresses the needs and interests of the target audience.
+- The alignment of the content with the stated learning objectives and its potential to provide valuable, practical knowledge to participants will be closely observed.
 
-### Format and Structure 
-The proposed format (e.g., workshop, talk, panel discussion) and the structure of the session should be evaluated. This includes how well the format aligns with the session’s goals and whether the structure is logical and conducive to learning.
+### Format and structure 
+- The proposed format (e.g., workshop, talk, panel discussion) and the structure of the session should be evaluated. This includes how well the format aligns with the session’s goals and whether the structure is logical and conducive to learning.
 
-### Session Content and Agenda Clarity 
-The clarity and detail of the session content and agenda are important. This includes how well the proposal outlines the topics to be covered, the flow of the session, and the specific objectives and outcomes expected from the session.
+### Session content and agenda clarity 
+- The clarity and detail of the session content and agenda are important. This includes how well the proposal outlines the topics to be covered, the flow of the session, and the specific objectives and outcomes expected from the session.
 
 ### Clarity and completeness of proposal
-Assessing the clarity of the workshop title, description, and agenda. Examining whether all required information, such as speaker qualifications, materials, and technical requirements, is provided in a clear and organised manner.
+- Assessing the clarity of the workshop title, description, and agenda. Examining whether all required information, such as speaker qualifications, materials, and technical requirements, is provided in a clear and organised manner.
 
 ### Code of conduct adherence
-Assessing whether the proposed content is in line with the Program Code of conduct. 
+- Assessing whether the proposed content is in line with the Program Code of conduct. 
 
 --------------
 
