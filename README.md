@@ -10,20 +10,20 @@ Workshops, talks and other forms of knowledge-passing in the Polkadot Developer 
 Through the CFP process, members can propose a wide range of possible topics and formats. The list below is not exhaustive and is meant to provide ideas rather than a strict list, but the common thread is that it needs to be relevant to the Polkadot ecosystem and the members of the Program. Different formats can also be mixed and matched if a series of events is proposed. Duration of the sessions can vary based on the complexity and topic to be covered. 
 
 ### Technical workshop or talk
-Examples: Introduction to Substrate FRAME, Building parachains on Polkadot, Security implications for dapp builders, Navigating the Polkadot ecosystem etc.
-The topics covered are geared towards developers, educating about a specific tool or concept. 
-Workshops usually have an interactive component for the audience, whereas a talk would not have that component and is more akin to a presentation. 
+- Examples: Introduction to Substrate FRAME, Building parachains on Polkadot, Security implications for dapp builders, Navigating the Polkadot ecosystem etc.
+- The topics covered are geared towards developers, educating about a specific tool or concept. 
+- Workshops usually have an interactive component for the audience, whereas a talk would not have that component and is more akin to a presentation. 
 
 ### Non-technical workshop or talk
-Example: Agile project management, Lean management, Building a company in the Polkadot ecosystem, Public speaking workshop
-Although topics covered are geared towards developers, they can be wider in scope and theme in order to provide upskilling and educational opportunities in complementary areas for personal and professional development.
-Workshops usually have an interactive component for the audience, whereas a talk would not have that component and is more akin to a presentation.
+- Example: Agile project management, Lean management, Building a company in the Polkadot ecosystem, Public speaking workshop
+- Although topics covered are geared towards developers, they can be wider in scope and theme in order to provide upskilling and educational opportunities in complementary areas for personal and professional development.
+- Workshops usually have an interactive component for the audience, whereas a talk would not have that component and is more akin to a presentation.
 
 ### Panel discussion
-Example: The future of NFTs in the Polkadot ecosystem, Scaling solutions in Polkadot, DeFi and RWA, etc.
-Comprises a group of experts discussing various aspects of a topic, providing diverse perspectives.
-Often includes a Q&A segment where the audience can interact with the panellists.
-Focuses on sharing insights, debating ideas, and exploring complex issues relevant to the Web3 and Polkadot ecosystem.
+- Example: The future of NFTs in the Polkadot ecosystem, Scaling solutions in Polkadot, DeFi and RWA, etc.
+- Comprises a group of experts discussing various aspects of a topic, providing diverse perspectives.
+- Often includes a Q&A segment where the audience can interact with the panellists.
+- Focuses on sharing insights, debating ideas, and exploring complex issues relevant to the Web3 and Polkadot ecosystem.
 
 ### Product demo 
 Involves presenting and demonstrating a new or existing product relevant to the Polkadot community.
