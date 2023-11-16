@@ -72,7 +72,7 @@ Use the provided template LINK to initiate your proposal submission, which inclu
 - Provide an engaging and informative description of your session, which we can use in communication to members (e.g. during community calls and emails)
 - Include an agenda and detailed breakdown for each session, especially if proposing multiple sessions.
 
-## Prerequisites
+### Prerequisites
 - Explain how participants should prepare for the session as well as detail any materials, resources, or tools participants will need including any technical requirements or infrastructure.
 
 
