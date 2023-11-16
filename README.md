@@ -26,30 +26,30 @@ Through the CFP process, members can propose a wide range of possible topics and
 - Focuses on sharing insights, debating ideas, and exploring complex issues relevant to the Web3 and Polkadot ecosystem.
 
 ### Product demo 
-Involves presenting and demonstrating a new or existing product relevant to the Polkadot community.
-Offers hands-on insights into the product's features, capabilities, and potential use cases.
-Encourages feedback and questions from the audience, fostering engagement and community input.
-Can be tied to a more comprehensive feedback loop and beta testing with members.
+- Involves presenting and demonstrating a new or existing product relevant to the Polkadot community.
+- Offers hands-on insights into the product's features, capabilities, and potential use cases.
+- Encourages feedback and questions from the audience, fostering engagement and community input.
+- Can be tied to a more comprehensive feedback loop and beta testing with members.
 
 ### Public mentorship session or office hours
-Example: Career guidance in the Web3 space, Substrate development Q&A, General purpose mentor session with Q&A, Ecosystem team office hours, etc. 
-Involves experienced professionals providing advice, answering questions, and sharing experiences.
-Similar to one-to-one mentorships, these sessions can have specific goals with dedicated mentors or provide general purpose office hours 
+- Example: Career guidance in the Web3 space, Substrate development Q&A, General purpose mentor session with Q&A, Ecosystem team office hours, etc. 
+- Involves experienced professionals providing advice, answering questions, and sharing experiences.
+- Similar to one-to-one mentorships, these sessions can have specific goals with dedicated mentors or provide general purpose office hours 
 
 ### Peer-review session
-Example: Code review of a recent hackathon submission, Architecture design discussion of a new project, Research paper discussions, etc.
-Involves presenting work (like code, project designs, or research) for feedback and constructive criticism from peers. 
-Encourages collaborative learning and knowledge sharing, fostering a culture of continuous improvement.
-Focuses on specific technical or conceptual challenges, with an emphasis on practical solutions and community expertise.
+- Example: Code review of a recent hackathon submission, Architecture design discussion of a new project, Research paper discussions, etc.
+- Involves presenting work (like code, project designs, or research) for feedback and constructive criticism from peers. 
+- Encourages collaborative learning and knowledge sharing, fostering a culture of continuous improvement.
+- Focuses on specific technical or conceptual challenges, with an emphasis on practical solutions and community expertise.
 
 ### Hero-only session
-Example: Master classes, Feedback for upcoming conference talk, etc. 
-Hero-only sessions can provide an outlet for Heroes to hold sessions where they are seeking advice or feedback from other Heroes
+- Example: Master classes, Feedback for upcoming conference talk, etc. 
+- Hero-only sessions can provide an outlet for Heroes to hold sessions where they are seeking advice or feedback from other Heroes
 
 ### Joint learning sessions
-Example: Collaborative Study Groups for W3F EdX Courses
-Focuses on a group of members collaboratively engaging in an educational course or learning module.
-Encourages peer-to-peer learning and support, enhancing understanding through group discussions and shared insights
+- Example: Collaborative Study Groups for W3F EdX Courses
+- Focuses on a group of members collaboratively engaging in an educational course or learning module.
+- Encourages peer-to-peer learning and support, enhancing understanding through group discussions and shared insights
 
 ## Proposal Submission Guidelines
 
