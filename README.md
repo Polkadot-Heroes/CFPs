@@ -55,7 +55,7 @@ Encourages peer-to-peer learning and support, enhancing understanding through gr
 
 Use the provided template LINK to initiate your proposal submission, which includes the sections mentioned below. Ensure all sections of the template are completed accurately to provide essential information about your proposed session.
 
-**👉 USE TEMPLATE 👈**
+**👉 [USE TEMPLATE](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) 👈**
 
 ### Speaker(s) Information
 Include names of the speaker(s).
@@ -109,4 +109,4 @@ Assessing whether the proposed content is in line with the Program Code of condu
 
 --------------
 
-**👉 USE TEMPLATE TO GET STARTED 👈**
+**👉 [USE TEMPLATE TO GET STARTED](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) 👈**
