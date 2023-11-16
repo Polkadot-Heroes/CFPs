@@ -1,6 +1,6 @@
 # Context
 
-**The following process is meant to facilitate Call for Proposals via a [proposal template](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) where members propose topics they would like to hold a session on. If you have a topic request that you would like to learn more about, but not be the one who gives the lesson, please go to the [CFPs: Requests and Ideas category on the discussion board](https://github.com/orgs/Polkadot-Heroes/discussions/categories/cfps-requests-and-ideas) and open a discussion on it.**
+**The following process is meant to facilitate Call for Proposals via a [new issue proposal template](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) where members propose topics they would like to hold a session on. If you have a topic request that you would like to learn more about, but not be the one who gives the lesson, please go to the [CFPs: Requests and Ideas category on the discussion board](https://github.com/orgs/Polkadot-Heroes/discussions/categories/cfps-requests-and-ideas) and open a discussion on it.**
 
 Workshops, talks and other forms of knowledge-passing in the Polkadot Developer Heroes program is an important part of the learning experience for members. Besides the Parity team providing various workshops to members to learn through these hands-on sessions, the Program also offers its members the opportunity to showcase teaching skills, and create engaging, informative, and hands-on sessions that cater to developers of all levels interested in building in the Polkadot ecosystem. Members of the program (both Rookies and Heroes) are encouraged to propose workshops that align with their expertise and can benefit the Polkadot developer community. 
 
@@ -79,7 +79,7 @@ Use the provided template LINK to initiate your proposal submission, which inclu
 
 
 ## Evaluation Criteria
-The Polkadot Developer Heroes program team will review all submitted proposals on a rolling basis, with a committed SLA of two weeks. All discussions relevant to the proposal will happen within the Github issue, which includes any potential update requests, scheduling and other discussions. 
+The Polkadot Developer Heroes program team will review all submitted proposals on a rolling basis, with a committed SLA of two weeks. All discussions relevant to the proposal will happen within the Github issue, which includes any potential update requests, scheduling and other discussions. To keep track of all submissions, check the [Issues section of the CFPs repo](https://github.com/Polkadot-Heroes/CFPs/issues) or follow the progress on the [CFPs Board](https://github.com/orgs/Polkadot-Heroes/projects/1/views/1). 
 
 Evaluation criteria that will be used during the evaluation process can be found below, although it is important to note that these do not form a strict matrix as is with the Hero nomination process.  
 
