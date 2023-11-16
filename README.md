@@ -1,8 +1,8 @@
 # Context
 
-**The following process is meant to facilitate Call for Proposals via a [new issue proposal template](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) where members propose topics they would like to hold a session on. If you have a topic request that you would like to learn more about, but not be the one who gives the lesson, please go to the [CFPs: Requests and Ideas category on the discussion board](https://github.com/orgs/Polkadot-Heroes/discussions/categories/cfps-requests-and-ideas) and open a discussion on it.**
+**The following process is meant to facilitate Call for Proposals via a [new issue proposal template](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) where members propose topics they would like to hold a session on. If you have a topic request that you would like to learn more about but are not the expert who should give the lesson, please go to the [CFPs: Requests and Ideas category on the discussion board](https://github.com/orgs/Polkadot-Heroes/discussions/categories/cfps-requests-and-ideas) and open a discussion on it.**
 
-Workshops, talks and other forms of knowledge-passing in the Polkadot Developer Heroes program is an important part of the learning experience for members. Besides the Parity team providing various workshops to members to learn through these hands-on sessions, the Program also offers its members the opportunity to showcase teaching skills, and create engaging, informative, and hands-on sessions that cater to developers of all levels interested in building in the Polkadot ecosystem. Members of the program (both Rookies and Heroes) are encouraged to propose workshops that align with their expertise and can benefit the Polkadot developer community. 
+Workshops, talks, and other forms of knowledge-passing in the Polkadot Developer Heroes program are an important part of the learning experience for members. Besides the Parity team providing various workshops to members to learn through these hands-on sessions, the program also offers its members the opportunity to showcase teaching skills, and create engaging, informative, and hands-on sessions that cater to developers of all levels interested in building in the Polkadot ecosystem. Members of the program (both Rookies and Heroes) are encouraged to propose workshops that align with their expertise and can benefit the Polkadot developer community. 
 
 
 
@@ -43,7 +43,7 @@ Through the CFP process, members can propose a wide range of possible topics and
 - Focuses on specific technical or conceptual challenges, with an emphasis on practical solutions and community expertise.
 
 ### Hero-only session
-- Example: Master classes, Feedback for upcoming conference talk, etc. 
+- Example: Master classes, feedback for upcoming conference talk, etc. 
 - Hero-only sessions can provide an outlet for Heroes to hold sessions where they are seeking advice or feedback from other Heroes
 
 ### Joint learning sessions
@@ -53,7 +53,7 @@ Through the CFP process, members can propose a wide range of possible topics and
 
 ## Proposal Submission Guidelines
 
-Use the provided template LINK to initiate your proposal submission, which includes the sections mentioned below. Ensure all sections of the template are completed accurately to provide essential information about your proposed session.
+Use the provided template [LINK](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) to initiate your proposal submission, including the below sections. Ensure all template sections are completed to provide essential information about your proposed session.
 
 **👉 [USE TEMPLATE](https://github.com/Polkadot-Heroes/CFPs/issues/new/choose) 👈**
 
@@ -66,7 +66,7 @@ Use the provided template LINK to initiate your proposal submission, which inclu
 
 ### Time and Duration of the Session
 - Propose a time and duration for the session at least two weeks in advance. Check the events calendar for slot availability.
-- If proposing a series, provide multiple times, dates and durations.
+- If proposing a series, provide multiple times, dates, and durations.
 
 ### Format of the Session
 - Clearly define the format (e.g., workshop, panel discussion, hackathon).
