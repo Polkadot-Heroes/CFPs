@@ -61,6 +61,9 @@ Use the provided template LINK to initiate your proposal submission, which inclu
 - Include names of the speaker(s).
 - Provide credentials and short descriptions for each speaker to establish expertise and relevance.
 
+### Topic Experience
+- Provide past experience that demonstrates your expertise in the given topic. This could be links to past workshops that you did on this topic, or code contribution to a specific project, etc. 
+
 ### Time and Duration of the Session
 - Propose a time and duration for the session at least two weeks in advance. Check the events calendar for slot availability.
 - If proposing a series, provide multiple times, dates and durations.
