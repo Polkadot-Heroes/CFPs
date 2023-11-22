@@ -28,6 +28,7 @@ body:
     attributes:
       label: Public speaking experience
       description: Share link(s) to past public speaking engagement(s) where this talk was given, or a recorded 3 minutes summary of the talk you are proposing.
+      placeholder: Add links of past talks or a 3min recorded summary
   - type: textarea
     id: CFP-session-time-and-duration
     attributes:
